@@ -1,0 +1,4 @@
+crear_proceso [nombre]
+estado_ram
+estado_disco
+salir
